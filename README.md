@@ -1,4 +1,4 @@
-# Breathalyzer-Test-Kickboard-Rental-APP
+# Random Alcohol Machine
 랜덤 폭탄주 제조기 & 앱
 
 
